@@ -1,6 +1,3 @@
-# crystal-as-educator
-A Collection of My Published Educational Resources
-
 > "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style." — Maya Angelou
 
 Crystal Hess is a mom, educator, and student who is constantly pushing limits in all aspects of her life.
