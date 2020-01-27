@@ -9,7 +9,7 @@ Crystal holds a Bachelors in Computer Science, a Masters in Information Systems 
 Snapshot:
 + Currently Faculty at [Shoreline Community College](http://shoreline.edu) and Doctoral student at [Seattle University](http://seattleu.edu/education/edlr/)
 + 2.5 years leading and teaching at [Ada Developers Academy](http://adadevelopersacademy.org)
-+ 10 years teaching at [Tahoma High School](http://tahomahigh.com)
++ 10 years teaching at [Tahoma High School](http://tahomahighschooltahomasd.ss19.sharpschool.com/)
 
 Some notable accomplishments include:
 + Building and growing a CS program at Tahoma HS from the ground up
