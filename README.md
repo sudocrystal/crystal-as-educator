@@ -5,8 +5,8 @@ Crystal has been coding since 1997 and has been a Computer Science educator sinc
 Crystal holds a Bachelors in Computer Science, a Masters in Information Systems Management, and is currently working toward a Doctorate in Educational and Organizational Leadership. She is also a [National Board Certified Teacher](http://nbpts.org).
 
 Snapshot:
-+ Tenured Professor of Computer Science at [Shoreline Community College](http://shoreline.edu) since Fall 2017
-+ Currently a Doctoral student at [Seattle University](http://seattleu.edu/education/edlr/)
++ Tenured Professor of Computer Science at [Shoreline Community College](http://shoreline.edu) (tenured Winter 2020; teaching since Fall 2017)
++ Doctoral Candidate at [Seattle University](http://seattleu.edu/education/edlr/), Educational and Organizational Leadership: Community Advocacy and Social Justice
 + 2.5 years leading and teaching at [Ada Developers Academy](http://adadevelopersacademy.org)
 + 10 years teaching at [Tahoma High School](http://tahomahighschooltahomasd.ss19.sharpschool.com/)
 
