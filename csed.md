@@ -7,7 +7,7 @@ Learning and teaching Computer Science should be fun. Gathered here is curriculu
 1. Computer Science is FUN (so fun!)
 
 ## Materials
-**High School** ([mshess.com](http://mshess.com))
+**High School** (mshess.com)
   + [AP Computer Science - Java](https://drive.google.com/open?id=0B6DpS0ihYV31MGw0aF9KS3VvQTg)
   + [Data Structures - Java](https://drive.google.com/open?id=0B6DpS0ihYV31b1k4Ri1IdjVKdlU)
 
@@ -20,6 +20,7 @@ Learning and teaching Computer Science should be fun. Gathered here is curriculu
   + [Introduction to Programming - Python](https://github.com/sudocrystal/scc-compsci/tree/master/121)
   + [Computer Science I - Java](https://github.com/sudocrystal/scc-compsci/tree/master/141)
   + [Computer Science II - Java](https://github.com/sudocrystal/scc-compsci/tree/master/143)
+  + Computing and Society
 
 **University**
   + [Fun Intro to CSE - Arduino, p5.js, html/css, Edison Robot](https://github.com/sudocrystal/uw-cse-da-startup)

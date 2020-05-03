@@ -10,7 +10,8 @@ Gathered here are materials that I have developed for various audiences.
 1. Encourage the practice of growth in creating equitable and accessible structures and programs for all people.
 
 ## Materials
-**Previous Workshops/Talks Given**
+**Previous Workshops/Presentation Sessions**
+  + A Case Study on Intersectionality in Education: "What We See"
   + [An Inventory of Power and Privilege](https://docs.google.com/document/d/1N6p-Szg3mPf6iq1MsmQa6egBEivczjUIXB5Dx9H_nm4/edit?usp=sharing) (April 2019)
   + Equity in the CS Classroom (Jan 2018)
   + [Higher Ed Equity Scenarios](https://docs.google.com/document/d/1Zg5SKZ5lr0CLROqRWU2z8bLv1-k0K1AazufIoabMMM0/edit?usp=sharing) (Sept 2017)
