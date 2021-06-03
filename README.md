@@ -11,11 +11,12 @@ Snapshot:
 + 10 years teaching at [Tahoma High School](http://tahomahighschooltahomasd.ss19.sharpschool.com/)
 
 Some notable accomplishments include:
-+ Building and growing a CS program at Tahoma High School from the ground up
++ Building and growing CS programs in various contexts: high school, adult retraining bootcamp, community college
 + Writing and sharing CS curriculum with CS teachers across the nation
-+ Founding the [PSCSTA](http://pscsta.org) high school programming contest scene
-+ Founding the social justice curriculum at Ada Developers Academy
-+ Directing program vision, growth, and changes at Ada Developers Academy during their "startup phase"
++ Developing and facilitating professional development workshops related to diversity, equity, and inclusion in a variety of formats
++ Founding the [PSCSTA](http://pscsta.org) high school programming contest scene which served hundreds of students annually
++ Founding the social justice curriculum at Ada Developers Academy reaching students, advisory board members, and industry mentors and managers
++ Directing program vision, growth, and changes at Ada Developers Academy during their "startup phase" tripling employees and doubling students served
 + Volunteering around the world, including: an orphanage in Kenya; an AIDS support clinic in Peru; a wildlife rescue center in Thailand; local at-risk youth centers in Austin, TX and Seattle, WA; and with the Leukemia & Lymphoma Society; among others.
 
 For a more detailed picture of experience: [linkedin/crystaljhess](http://linkedin.com/in/crystaljhess)
