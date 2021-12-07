@@ -5,15 +5,16 @@ Crystal has been coding since 1997 and has been a Computer Science educator sinc
 Crystal holds a Bachelors in Computer Science, a Masters in Information Systems Management, and is currently working toward a Doctorate in Educational and Organizational Leadership. She is also a [National Board Certified Teacher](http://nbpts.org).
 
 Snapshot:
++ Doctoral Candidate, Educational and Organizational Leadership: Community Advocacy and Social Justice at [Seattle University](http://seattleu.edu/education/edlr/)
 + Tenured Professor of Computer Science at [Shoreline Community College](http://shoreline.edu) (tenured Winter 2020; teaching since Fall 2017)
-+ Doctoral Candidate at [Seattle University](http://seattleu.edu/education/edlr/), Educational and Organizational Leadership: Community Advocacy and Social Justice
++ Multiple stints as an educational administrator; each during times of necessary innovation, learning, and growth
 + 2.5 years leading and teaching at [Ada Developers Academy](http://adadevelopersacademy.org)
 + 10 years teaching at [Tahoma High School](http://tahomahighschooltahomasd.ss19.sharpschool.com/)
 
 Some notable accomplishments include:
++ Developing and facilitating professional development workshops related to diversity, equity, and inclusion in a variety of formats
 + Building and growing CS programs in various contexts: high school, adult retraining bootcamp, community college
 + Writing and sharing CS curriculum with CS teachers across the nation
-+ Developing and facilitating professional development workshops related to diversity, equity, and inclusion in a variety of formats
 + Founding the [PSCSTA](http://pscsta.org) high school programming contest scene which served hundreds of students annually
 + Founding the social justice curriculum at Ada Developers Academy reaching students, advisory board members, and industry mentors and managers
 + Directing program vision, growth, and changes at Ada Developers Academy during their "startup phase" tripling employees and doubling students served
