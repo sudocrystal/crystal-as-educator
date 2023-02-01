@@ -1,11 +1,15 @@
 Crystal Hess is a mom, educator, and student who is constantly pushing limits in all aspects of her life.
 
-Crystal has been coding since 1997 and has been a Computer Science educator since 2004. She is passionate about educational equity, community building, and focusing on _how we teach_ over _what we teach_.
+Crystal has been coding since 1997 and has been a Computer Science educator since 2004. She is passionate about educational equity, community building, and focusing on _how we learn_ over _what we learn_.
 
-Crystal holds a Bachelors in Computer Science, a Masters in Information Systems Management, and is currently working toward a Doctorate in Educational and Organizational Leadership. She is also a [National Board Certified Teacher](http://nbpts.org).
+Dr. Crystal Hess (she) has 20 years of teaching and leadership experience spanning multiple contexts, including secondary education, adult retraining, and higher education. Crystal believes justice, community-centered collaboration, innovation, and learning should be pillars of organizational development.
+Crystal loves working and teaching in her local community. She believes that Computer Science should be fun to learn since it's fun to teach!
+
+Crystal holds a Doctorate in Educational and Organizational Leadership through Seattle University with a focus on Community Advocacy and Social Justice, a Masters in Information Systems Management, and a Bachelors in Computer Science. Crystal has been a [National Board Certified Teacher](http://nbct.org) since 2010 and was earned her [Certified Diversity Executive](https://www.diversitycertification.org/competencies) credentials in 2023.
 
 Snapshot:
-+ Doctoral Candidate, Educational and Organizational Leadership: Community Advocacy and Social Justice at [Seattle University](http://seattleu.edu/education/edlr/)
++ Doctorate in Educational and Organizational Leadership: Community Advocacy and Social Justice at [Seattle University](http://seattleu.edu/education/edlr/)
++ NBCT and CDE credentials
 + Tenured Professor of Computer Science at [Shoreline Community College](http://shoreline.edu) (tenured Winter 2020; teaching since Fall 2017)
 + Multiple stints as an educational administrator; each during times of necessary innovation, learning, and growth
 + 2.5 years leading and teaching at [Ada Developers Academy](http://adadevelopersacademy.org)
